@@ -3,8 +3,8 @@
     "description": "O Sloth Html é uma ferramenta CLI para inicialização rápida de projetos HTML5. Tem como objetivo facilitar a criação das estruturas de pastas e arquivos para pequenos projetos.",
     "license":  "MIT License",
   	"notes": [
-          "Sem",
-  		    " nota de versão",
+        "Sem",
+        " nota de versão"
     ],    
     "url":  "http://github.com/rafaelsouzars/slothhtml",
   	"architecture": {
